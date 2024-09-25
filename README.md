@@ -150,6 +150,3 @@ pass
 ![Results](./assets/image-1.png)
 
 ![Results](./assets/image-2.png)
-
-![Results](./assets/image-3.png)
-
